@@ -73,3 +73,4 @@ tomorrow = pendulum.now().add(days=1)
 last_week = pendulum.now().subtract(week=1)
 ```
   
+Para mais informações, acesse: https://pendulum.eustace.io/
