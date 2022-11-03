@@ -72,5 +72,17 @@ print(now_in_paris)
 tomorrow = pendulum.now().add(days=1)
 last_week = pendulum.now().subtract(week=1)
 ```
-  
+
+```python
+
+import pendulum
+ 
+utc_time = pendulum.now('UTC')
+ 
+paris_time = utc_time.in_timezone('Europe/Paris')
+
+formatted_str = paris_time.format('dddd Do [of] MMMM YYYY HH:mm:ss A')
+print(formatted_str)
+```
+
 Para mais informações, acesse: https://pendulum.eustace.io/
