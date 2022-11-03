@@ -12,7 +12,7 @@ Apesar do *datetime* ser perfomático, ele não é muito funcional em casos mais
 
 - Quanto tempo falta para quarta-feira da próxma semana.
 
-Fatores como subtrair dias de uma data atual são mais simples utilizando pendulum, uma vez que não é necessário mudar a o mês ou verificar a base do mês;
+Fatores como subtrair dias de uma data atual são mais simples utilizando pendulum, uma vez que não é necessário mudar o mês ou verificar a base do mês;
 
 É uma biblioteca third-party, por isso é necessário fazer a instalação.
 
