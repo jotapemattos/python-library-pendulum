@@ -2,6 +2,8 @@
 
 ### Introdução 
 
+#### Trabalho realizado com intuitos estudantis
+
 Pendulum é uma biblioteca com a funcionalidade de facilitar a manipulação de datas em python.
 Essa biblioteca é bascicamente um *datetime*, porém melhorada.
 Apesar do *datetime* ser perfomático, ele não é muito funcional em casos mais complexos como por exemplo:
